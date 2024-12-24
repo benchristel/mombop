@@ -31,6 +31,10 @@ export const episodes = [
     rj2jPnQAGto 4:55 Genesis - ...In That Quiet Earth (Official Audio)
     7GMDwtlDTgo 4:15 Genesis - Afterglow (Official Audio)
     `,
+    `
+    bitMdn_PbOg 18:24 The Moody Blues - Days Of Future Passed - 1967 Vinyl LP - Side 1
+    jktBW1Etu3M 22:42 The Moody Blues - Days Of Future Passed - 1967 Vinyl LP - Side 2
+    `,
 ]
 
 export const videos = `

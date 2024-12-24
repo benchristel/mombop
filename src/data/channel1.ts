@@ -147,6 +147,24 @@ export const episodes = [
   6uIpiBcBBvE 4:53 Jon Batiste - Wherever You Are (Visualizer)
   zA7apVR0-6Q 4:50 Life Lesson
   `,
+  `
+  # Hugh Laurie - Let Them Talk
+  IYqUlVO48PM 6:26 St James Infirmary
+  TrLbszElTOo 3:40 You Don't Know My Mind
+  4CLcsxC2bsY 4:56 Six Cold Feet
+  Gacu7U8xsUI 3:13 Buddy Bolden's Blues
+  TRv-H_tSxUM 3:48 Battle of Jericho
+  LxmDkCKBzM4 4:10 After You've Gone
+  FVPqQbeGyzQ 2:44 Swanee River
+  ix11mfbrbqo 3:38 The Whale Has Swallowed Me
+  sc3bUmuPCcE 3:35 John Henry
+  drDQJBKwt70 3:34 Police Dog Blues
+  Jo33RXDW5Wo 5:07 Tipitina
+  1x9X_ZIgF7c 3:00 Winin' Boy Blues
+  nbjxTTmaf-s 1:12 They're Red Hot
+  vrqfUvwvwts 4:58 Baby Please Make a Change
+  V5z_LOrPqZE 4:11 Let Them Talk
+  `,
 ]
 
 export const videos = ``
