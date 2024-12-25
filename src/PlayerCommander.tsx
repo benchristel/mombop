@@ -1,7 +1,7 @@
 import * as React from "react"
 import {test, expect, is} from "@benchristel/taste"
 import {SECONDS_BETWEEN_VIDEOS} from "./playback"
-import { Player } from "./youtube/player";
+import { Player, State } from "./youtube/player";
 
 type Props = {
   player: Player,
@@ -21,6 +21,10 @@ export class PlayerCommander extends React.Component<Props> {
 
   componentDidUpdate() {
     const { player, volume, commands, now } = this.props
+
+    if (player.getPlayerState() === State.PAUSED) {
+      return
+    }
 
     player.setVolume(fromPerceivedVolume(volume))
 
