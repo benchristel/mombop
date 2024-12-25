@@ -114,6 +114,26 @@ export const episodes = [
     mfvGAG1N7g8 4:04 Sweet Dream (2001 Remaster)
     Mxr9R2GvMbk 3:08 17 (2001 Remaster)
     `,
+    `
+    # Emerson, Lake, and Palmer - Brain Salad Surgery
+    YbMJN35q1BQ 2:46 Emerson, Lake & Palmer - Jerusalem (Official Audio)
+    ZdSeNMlKTcA 7:23 Emerson, Lake & Palmer - Toccata (Official Audio)
+    ySax3wnZ72w 2:54 Emerson, Lake & Palmer - Still...You Turn Me On (Official Audio)
+    p_-GFojTqpg 2:22 Emerson, Lake & Palmer - Benny The Bouncer (Official Audio)
+    EKAEqeHeDSo 8:38 Emerson, Lake & Palmer - Karn Evil 9 1st Impression Part 1 (Official Audio)
+    cc6ymS4NGxg 4:46 Emerson, Lake & Palmer - Karn Evil 9 1st Impression Part 2 (Official Audio)
+    QqWRI2GYwec 7:08 Emerson, Lake & Palmer - Karn Evil 9 2nd Impression (Official Audio)
+    4KRuXhibMno 9:08 Emerson, Lake & Palmer - Karn Evil 9 3rd Impression (Official Audio)
+    `,
+    `
+    # Emerson, Lake, and Palmer - Emerson, Lake, and Palmer
+    JwmSS_64IN4 4:34 The Barbarian (2012 - Remaster)
+    7fhCGCogbqI 12:34 Take a Pebble (2012 - Remaster)
+    OLhQaIko4AY 5:07 Knife-Edge (2012 - Remaster)
+    5-C88mPG82A 7:45 The Three Fates (i) Clotho ii) Lachesis iii) Atropos) (2012 - Remaster)
+    bVsw9wJauAo 6:53 Tank (2012 - Remaster)
+    Qs8F1a04rHY 4:38 Lucky Man (2012 - Remaster)
+    `
 ]
 
 export const videos = `
